@@ -1,0 +1,7 @@
+spring:
+  data:
+    mongodb:
+
+      uri : mongodb+srv://kavishkachathumadura250:vbvNjtVf1tSl6K43@pafproject.rzsaafw.mongodb.net/pafprojectdb?retryWrites=true&w=majority&appName=PafProject
+      database : pafprojectdb
+
